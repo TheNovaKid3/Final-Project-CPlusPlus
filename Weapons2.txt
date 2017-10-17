@@ -1,0 +1,8 @@
+You also find you're weaponry. What weapon do you have?
+1. Sword and Shield
+2. Knives and Daggers
+3. Bow and Arrows&
+1#You equip your sword and sheild feeling quite noble as you do. Sadly you are not actually a knight of any kingdom.
+2#You equip your knives by hiding them in various hidden pockets around your body. The two daggers are slipped into their sheaths on your belt. you resist the urge to hide in the shadows.
+3#You grab your bow and quiver making sure both are in perfect condition. As you hang the quiver across your shoulder, you have a strange urge to wear something green. Unfortunately your green hat was knocked into the fire a while ago.
+14#Sorry. No more secerts here.

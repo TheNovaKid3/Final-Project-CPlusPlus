@@ -1,0 +1,8 @@
+Welcome to this RPG adventure game that currently does not have a title by Nathaniel Sarles. Don't worry I'll get to a title... Eventually. Anyways, I would like to thank you for playing and hope you have a fun time.(Press any key then enter to continue.)
+&You are an adventurer. What is your name? (Type in a name and press enter.)&
+Hello &! Nice to meet you. By the way, how are you? (Enter the number of your response then hit enter.)
+1. Good
+2. Well&
+1#Good for you.
+2#That's just swell.
+Now, On to where you are.

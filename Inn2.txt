@@ -1,0 +1,7 @@
+There is a bookshelf along one wall and a desk in the corner of the room. Of course you can also leave the room now that you have your weapons equipped. What do you do?
+1. Examine Bookshelf
+2. Examine Desk
+3. Exit Room&
+1#You examine the bookshelf. After purusing the books for a minute, you find one that catches your interest. You open the book... Wait a second that's a magic book! You decide you'll bring the book with you because magic is always useful. You move away from the bookshelf.
+2# You examine the desk. On it you find several pieces of paper strewn about the top of the desk the top page seems to be some notes about something. It reads, "Knights are number one, Assassins always have at least two escape routes, and Archers stay at least three meters away from their target." Another paper reads "14 Mages." I wonder what these confusing notes mean? You move away from the desk.
+3#You exit the room and head down the stairs.

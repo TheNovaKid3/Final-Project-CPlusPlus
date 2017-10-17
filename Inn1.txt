@@ -1,0 +1,7 @@
+You find yourself in a small bedroom in what appears to be an inn. &There is a chest at the end of the bed, a bookshelf along one wall, and a desk in the corner of the room. What do you do?
+1. Open chest
+2. Examine Bookshelf
+3. Examine Desk&
+1#You open the chest. GREAT SCOTT!!! IT'S YOUR ADVENTURERS GEAR! This includes your Adventure pouch which you hastily equip.
+2#You examine the bookshelf. After purusing the books for a minute, you find one that catches your interest. You open the book... Wait a second that's a magic book! You decide you'll bring the book with you because magic is always useful. You move away from the bookshelf
+3# You examine the desk. On it you find several pieces of paper strewn about the top of the desk the top page seems to be some notes about something. It reads, "Knights are number one, Assassins always have at least two escape routes, and Archers stay at least three meters away from their target." Another paper reads "14 Mages." I wonder what these confusing notes mean? You move away from the desk.
